@@ -8,7 +8,6 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 I’m a student at Kmitl.
 ---------------
 
-I've been learning to code for 4 months.
 
 *   ✉️  You can contact me at [ja.wanyuma@gmail.com](mailto:ja.wanyuma@gmail.com)
 *   🧠  I'm learning Programming.
