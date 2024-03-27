@@ -9,7 +9,7 @@ I’m a student at Kmitl.
 ---------------
 
 
-*   ✉️  You can contact me at [ja.wanyuma@gmail.com](mailto:ja.wanyuma@gmail.com)
+*   ✉️  You can contact me at [sittichai.wym@gmail.com](mailto:sittichai.wym@gmail.com)
 *   🧠  I'm learning Programming.
   ### Skills 
 <p align="left">
